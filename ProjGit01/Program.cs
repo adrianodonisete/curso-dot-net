@@ -8,6 +8,8 @@ namespace ProjGit01
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
+
+            Console.WriteLine("Novo texto 01");
         }
     }
 }
