@@ -11,6 +11,7 @@ namespace ProjGit01
             Console.WriteLine("Funcionando 1, 2, 3!");
 
             Console.WriteLine("Novo texto 01");
+            Console.WriteLine("Novo texto 02");
         }
     }
 }
