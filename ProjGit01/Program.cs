@@ -7,7 +7,6 @@ namespace ProjGit01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia");
             Console.WriteLine("Ok, vamos testar!");
             Console.WriteLine("Funcionando 1, 2, 3!");
 
